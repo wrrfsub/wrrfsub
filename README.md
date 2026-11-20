@@ -9,16 +9,6 @@
 
 </div>
 
----
-
-```js
-const s4way = {
-  doingStuffFor: "ServerOS: one panel for the Linux servers you already own",
-  location: "Earth",
-  motto: "i just do, what i gotta do.",
-};
-```
-
 ### stuff i use
 
 <p align="left">

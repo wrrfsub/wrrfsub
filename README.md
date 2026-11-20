@@ -1,16 +1,20 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:5b21b6,100:a78bfa&text=s4way&fontColor=ffffff&fontSize=64&fontAlignY=36&animation=fadeIn&desc=i%20just%20do,%20what%20i%20gotta%20do.&descAlignY=58&descSize=18" width="100%" alt="s4way" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=hey%2C+i'm+s4way+%F0%9F%91%8B;i+just+do%2C+what+i+gotta+do.;doing+stuff+for+ServerOS" alt="hey, i'm s4way" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1400&color=A78BFA&center=true&vCenter=true&width=480&lines=doing+stuff+for+ServerOS;one+panel+for+the+servers+you+own;probably+shipping+something+rn" alt="doing stuff for ServerOS" />
+
+<br/><br/>
+
+[![ServerOS](https://img.shields.io/badge/ServerOS-5b21b6?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/serveroshq)
+[![Site](https://img.shields.io/badge/s4--way.me-111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://s4-way.me/)
 
 <br/>
 
-[![ServerOS](https://img.shields.io/badge/ServerOS-111?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/serveroshq)
-[![Site](https://img.shields.io/badge/s4--way.me-111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://s4-way.me/)
+### stuff i use
+
+<img src="https://skillicons.dev/icons?i=laravel,php,vue,ts,rust,nextjs,tailwind,linux&theme=dark" alt="Laravel, PHP, Vue, TypeScript, Rust, Next.js, Tailwind, Linux" />
 
 </div>
 
-### stuff i use
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,php,vue,ts,rust,nextjs,tailwind,linux&theme=dark" alt="Laravel, PHP, Vue, TypeScript, Rust, Next.js, Tailwind, Linux" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:5b21b6,100:a78bfa" width="100%" alt="" />
